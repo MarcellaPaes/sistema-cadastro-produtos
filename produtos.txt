@@ -11,3 +11,7 @@ Quantidade: 15
 Produto 3: Forma de bolo
 Código: 003
 Quantidade: 10
+
+Produto 4: Cuscuzeira
+Código: 004
+Quantidade: 12
