@@ -1,0 +1,13 @@
+SISTEMA DE CADASTRO DE PRODUTOS
+
+Produto 1: Caneca
+Código: 001
+Quantidade: 20
+
+Produto 2: Panela
+Código: 002
+Quantidade: 15
+
+Produto 3: Forma de bolo
+Código: 003
+Quantidade: 10
